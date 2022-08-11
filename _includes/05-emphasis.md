@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__*skills*__
+- *Programming Languages :*
+  - __C#__
+  - __C++__
+  - __C__
+  - __Python__
+- *Sales*
+- *Quality Control*
+- *Document Management*
+- *Microsoft Office*
